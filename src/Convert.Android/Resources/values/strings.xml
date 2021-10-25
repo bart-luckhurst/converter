@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Moasure Converter</string>
+    <string name="action_settings">Settings</string>
+	<string name="label_source_value">Source value</string>
+	<string name="label_source_unit">Source unit</string>
+	<string name="label_target_unit">Target unit</string>
+	<string name="button_convert">Convert</string>
+	<string name="label_equals">=</string>
+</resources>
